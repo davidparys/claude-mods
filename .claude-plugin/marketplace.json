@@ -1,0 +1,14 @@
+{
+  "name": "claude-mods",
+  "owner": {
+    "name": "David Parys"
+  },
+  "description": "Claude Code mods by David Parys.",
+  "plugins": [
+    {
+      "name": "rule-keeper",
+      "source": "./rule-keeper",
+      "description": "When you correct Claude, a band above the prompt offers to save the correction as a permanent rule in CLAUDE.md or a skill."
+    }
+  ]
+}

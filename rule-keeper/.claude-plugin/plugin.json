@@ -1,0 +1,7 @@
+{
+  "name": "rule-keeper",
+  "version": "0.1.0",
+  "description": "When you correct Claude, a band above the prompt offers to save the correction as a permanent rule in CLAUDE.md or a skill.",
+  "author": { "name": "David Parys" },
+  "types": "./types/index.d.ts"
+}
